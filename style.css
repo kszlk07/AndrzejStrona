@@ -97,7 +97,7 @@ hr{
 }
 
 .titleImg{
-  height: 60rem;
+  width:100%;
   margin-left: 50%;
   transform: translateX(-50%);
 }
@@ -109,7 +109,7 @@ hr{
     text-align-last: center;
   }
   .navLineMobile{
-    border-top: 5px solid #121212;
+    border-top: 5px solid #5E5E5E;
     margin-bottom: 1rem;
   }
   .navLinePC{
